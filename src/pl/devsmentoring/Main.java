@@ -2,8 +2,8 @@ package pl.devsmentoring;
 
 public class Main {
     public static void main(String[] args) {
-       // String companyName = "Devs-Mentoring", brandName = "Devs-Hunting";
-        // System.out.println(companyName.compareTo(brandName));
+         String companyName = "Devs-Mentoring", brandName = "Devs-Hunting";
+         System.out.println(companyName.compareTo(brandName));
 
         //int value = 99;
         //String isEven = value % 2 == 0 ? "parzysta" : "nieparzysta";
@@ -18,3 +18,4 @@ public class Main {
         }
     }
 }
+
