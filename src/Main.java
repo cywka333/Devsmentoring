@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-
         // Zadanie 3
         System.out.println("Podaj swoje imię: ");
         Scanner scannerImie = new Scanner(System.in);
