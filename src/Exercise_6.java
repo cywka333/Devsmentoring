@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Exercise_6 {
-
     public static void exec_6(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please type the power of the number 2:");

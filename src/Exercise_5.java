@@ -5,5 +5,6 @@ public class Exercise_5 {
         for(int i = 0; i <= y; i+=5){
             System.out.println(i);
         }
+
     }
 }

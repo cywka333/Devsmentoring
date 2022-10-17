@@ -13,7 +13,6 @@ public class Exercise_9 {
         }
         System.out.println("The sum of first 10 natural numbers is: " + naturalNumber);
         System.out.println("The arythmetic avarage of fist 10 natural number is: " + naturalNumber/counter);
-
     }
 }
 

@@ -6,7 +6,6 @@ public class Exercise_4 {
         for(int i = 100; i >= y; i--){
             System.out.println(i);
         }
-
         System.out.println("\nPętla while\n");
         // WHILE
         int i = 100;

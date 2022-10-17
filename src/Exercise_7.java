@@ -13,7 +13,6 @@ public class Exercise_7 {
                 System.out.println(i);
             }
         }
-
         //Użytkownik wprowadza zakres:
         Scanner scanner2 = new Scanner(System.in);
         System.out.println("Please enter a number k: ");

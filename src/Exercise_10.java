@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Exercise_10 {
-
     public static void exec_10(){
 
         // Między 5000, a 30 000 litrów

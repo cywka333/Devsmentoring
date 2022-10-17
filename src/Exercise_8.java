@@ -24,7 +24,6 @@ public class Exercise_8 {
             }
         }
 
-
         //OR
 
         Scanner scanner2 = new Scanner(System.in);
