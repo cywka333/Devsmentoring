@@ -2,19 +2,21 @@ import java.util.Scanner;
 
 public class Exercise_8 {
 
-    public static void exec_8{
+    public static void exec_8()
+
+    {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter a number: ");
         int startValue = scanner.nextInt();
 
-        while(startValue > 0){
+        while (startValue > 0) {
             System.out.println("Please enter a new number: ");
             int newNumber = scanner.nextInt();
             int sumNumber = startValue + newNumber;
-            if(newNumber <= 0) {
+            if (newNumber <= 0) {
                 System.out.println("You entered a negative number or 0. Your sum is: " + sumNumber + ". BYE!");
                 break;
-            }else {
+            } else {
                 startValue = startValue + newNumber;
                 if (startValue >= sumNumber) {
                     System.out.println("New sum is: " + sumNumber + ". Please enter new number!");
@@ -29,7 +31,7 @@ public class Exercise_8 {
         System.out.println("Please enter a number: ");
         int startValue2 = scanner.nextInt();
 
-        if(startValue2 >= 0) {
+        if (startValue2 >= 0) {
             while (startValue2 >= 0) {
                 System.out.println("Please enter a new number: ");
                 int newNumber2 = scanner2.nextInt();
@@ -44,8 +46,9 @@ public class Exercise_8 {
                     }
                 }
             }
-        }else{
+        } else {
             System.out.println("You entered a negative number. Please enter positive number.");
         }
     }
 }
+
