@@ -13,7 +13,6 @@ public class Exercise_3 {
         }
 
         System.out.println("Pętla while");
-
         // WHILE
         int i = 0;
         while (i <= y) {

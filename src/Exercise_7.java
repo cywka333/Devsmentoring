@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Exercise_7 {
-
     public static void exec_7(){
         Scanner scanner = new Scanner(System.in);
         System.out.println("Please enter a number k: ");

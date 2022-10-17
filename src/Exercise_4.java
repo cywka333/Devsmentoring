@@ -8,7 +8,6 @@ public class Exercise_4 {
         }
 
         System.out.println("\nPętla while\n");
-
         // WHILE
         int i = 100;
         while (i>=y){
