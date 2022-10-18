@@ -1,3 +1,5 @@
+package pl.devsmentoring;
+
 import java.util.Scanner;
 
 public class Exercise_8 {

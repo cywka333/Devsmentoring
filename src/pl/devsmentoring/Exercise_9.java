@@ -1,3 +1,5 @@
+package pl.devsmentoring;
+
 public class Exercise_9 {
 
     public static void exec_9(){

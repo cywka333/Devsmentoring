@@ -1,3 +1,5 @@
+package pl.devsmentoring;
+
 public class Exercise_5 {
     public static void exec_5(){
         // Pętla for
