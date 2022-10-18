@@ -1,3 +1,5 @@
+package pl.devsmentoring;
+
 public class Exercise_5 {
     public static void exec_5(){
         // Pętla for
@@ -5,5 +7,6 @@ public class Exercise_5 {
         for(int i = 0; i <= y; i+=5){
             System.out.println(i);
         }
+
     }
 }

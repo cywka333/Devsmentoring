@@ -1,9 +1,10 @@
+package pl.devsmentoring;
+
 import java.util.Scanner;
 
 public class Exercise_3 {
 
    public static void exec_3()
-
     { // Pętla for
         Scanner scanner = new Scanner(System.in);
         System.out.println("Podaj liczbę y: ");
